@@ -1,4 +1,3 @@
-## YAML Templatesss
 ---
 default: -p ci -p homolog -p chrome_headless -p html -p json
 
